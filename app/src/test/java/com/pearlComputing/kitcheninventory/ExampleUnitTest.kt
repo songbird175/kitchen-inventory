@@ -1,4 +1,4 @@
-package com.example.kitcheninventory
+package com.pearlComputing.kitcheninventory
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.kitcheninventory.ui.theme
+package com.pearlComputing.kitcheninventory.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
